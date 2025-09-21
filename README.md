@@ -1,7 +1,7 @@
 # 👋 Welcome to my GitHub Profile  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0x-Carl/0x-Carl/main/banner.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/0x-Carl/0x-Carl/main/IMG_6288.gif" alt="banner" />
 </p>
 
 <p align="center">
