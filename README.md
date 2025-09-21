@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/0x-Carl/0x-Carl/main/IMG_6288.gif" alt="banner" width="600"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;I'm+0x-Carl;Blockchain+and+Crypto+Builder;Specialized+in+building+and+deploying+automated+trading+and+liquidity+management+bots;Web3+Marketing+%26+Community+Growth;NFT+Creator+%26+Innovator" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;I'm+0x-Carl;Blockchain+and+Crypto+Builder;Specialized+in+building+and+deploying+automated+trading+bots;Web3+Marketing+%26+Community+Growth;NFT+Creator+%26+Innovator" alt="Typing SVG"/>
 </p>
 
 ---
@@ -31,7 +31,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 **Specialized in building and deploying automated trading and liquidity management bots**  
+- 🔭 **Specialized in building and deploying automated trading bots**  
 - 🌱 Exploring **DeFi, NFTs, and on-chain automation**  
 - 🎨 Creator of **NFT art collections**  
 - 💬 Passionate about **crypto marketing & community building**  
@@ -46,7 +46,7 @@
 
 ![0x-Carl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x-Carl&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x-Carl&layout=compact&theme=radical)  
+![Top Langs](https://img.shields.io/github/languages/top/0x-Carl?theme=radical)  
 
 ---
 
