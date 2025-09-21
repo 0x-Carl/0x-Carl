@@ -1,16 +1,15 @@
 # 👋 Welcome to my GitHub Profile  
 
-<div align="center" style="position: relative; display: inline-block;">
+<p align="center">
   <!-- Background GIF -->
   <img src="https://raw.githubusercontent.com/0x-Carl/0x-Carl/main/IMG_6288.gif" alt="banner" width="600"/>
 
-  <!-- Typing Text Overlay -->
-  <div style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%);">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+0x-Carl;Crypto+Builder+%F0%9F%9A%80;Bot+Developer+%F0%9F%A4%96;NFT+Artist+%F0%9F%8E%A8;Web3+Marketer+%F0%9F%8C%90" alt="Typing SVG" />
-    </a>
-  </div>
-</div>
+  <!-- Typing Animation (appears directly under the GIF, looks like overlay) -->
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+0x-Carl;Crypto+Builder+%F0%9F%9A%80;Bot+Developer+%F0%9F%A4%96;NFT+Artist+%F0%9F%8E%A8;Web3+Marketer+%F0%9F%8C%90" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
