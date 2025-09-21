@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/0x-Carl/0x-Carl/main/IMG_6288.gif" alt="banner" width="600"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;I'm+0x-Carl;Blockchain+and+Crypto+Builder;Experienced+in+Volume+%26+Market-Making+Bots;Web3+Marketing+%26+Community+Growth;NFT+Creator+%26+Innovator" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;I'm+0x-Carl;Blockchain+and+Crypto+Builder;Specialized+in+building+and+deploying+automated+trading+and+liquidity+management+bots;Web3+Marketing+%26+Community+Growth;NFT+Creator+%26+Innovator" alt="Typing SVG"/>
 </p>
 
 ---
@@ -31,9 +31,8 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Specializing in **blockchain automation & on-chain tools**  
-- 📊 Experienced in **volume bots & market-making bots**  
-- 🌱 Exploring **DeFi, NFTs, and ecosystem growth**  
+- 🔭 **Specialized in building and deploying automated trading and liquidity management bots**  
+- 🌱 Exploring **DeFi, NFTs, and on-chain automation**  
 - 🎨 Creator of **NFT art collections**  
 - 💬 Passionate about **crypto marketing & community building**  
 - 📫 Reach me via:  
