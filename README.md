@@ -1,8 +1,16 @@
 # Hi there 👋, I'm 0x-Carl  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F700&width=600&lines=Crypto+Builder+%7C+Web3+Marketer;DeFi+Degen+%7C+Community+Builder;Bot+Developer+%7C+NFT+Artist;Let's+Build+On-Chain+Together!)](https://git.io/typing-svg)  
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/141525149/284870463-feaa62b1-1e5d-4e32-8f39-32c7b0eaf856.gif?raw=true" width="100%" alt="typing background gif">
+</p>
 
-![banner](https://i.ibb.co/qgN8z4M/blockchain-banner.gif)  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F700&width=600&lines=Crypto+Builder+%7C+Web3+Marketer;DeFi+Degen+%7C+Community+Builder;Bot+Developer+%7C+NFT+Artist;Let's+Build+On-Chain+Together!" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0x-Carl&style=for-the-badge&color=blue)  
 
