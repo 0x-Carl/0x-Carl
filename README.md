@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/0x-Carl/0x-Carl/main/IMG_6288.gif" alt="banner" width="600"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Welcome+to+0x-Carl's+GitHub;Blockchain+Developer+%26+Crypto+Hacker;DeFi+%7C+NFTs+%7C+On-Chain+Automation;Building+Web3+Futures" alt="Typing SVG"/>
+  <br/>
+  ![Visitor Count](https://profile-counter.glitch.me/0x-Carl/count.svg)
 </p>
 
 ---
